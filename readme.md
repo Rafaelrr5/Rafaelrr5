@@ -20,7 +20,7 @@ I'm always open to collaborating on interesting projects or discussing new oppor
 
 - **Email**: [faelrribeiro3@gmail.com](mailto:faelrribeiro3@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rafael-rocha-ribeiro-581bb2202/)
-- **Portfolio**: [Portfolio Website](rocharafael.netlify.app/)
+- **Portfolio**: [Portfolio Website](https://rocharafael.netlify.app)
 
 ---
 
