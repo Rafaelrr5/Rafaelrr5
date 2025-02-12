@@ -19,7 +19,7 @@ Here are some of the tools and technologies I work with:
 I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out:
 
 - **Email**: [faelrribeiro3@gmail.com](mailto:faelrribeiro3@gmail.com)
-- **LinkedIn**: [LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rafael-rocha-ribeiro-581bb2202/))
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rafael-rocha-ribeiro-581bb2202/)
 - **Portfolio**: [Portfolio Website](rocharafael.netlify.app/)
 
 ---
