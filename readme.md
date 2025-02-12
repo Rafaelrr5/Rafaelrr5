@@ -15,11 +15,6 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-## 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafaelrr5&show_icons=true&theme=light)
-
----
-
 ## 📫 **Let's Connect!**
 I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out:
 
