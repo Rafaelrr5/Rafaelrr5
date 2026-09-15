@@ -45,7 +45,6 @@ Postgres and Supabase.
 
 - **Email** — [faelrribeiro3@gmail.com](mailto:faelrribeiro3@gmail.com)
 - **LinkedIn** — [rafael-rocha-ribeiro](https://www.linkedin.com/in/rafael-rocha-ribeiro-581bb2202/)
-- **Portfolio** — [rocharafael.netlify.app](https://rocharafael.netlify.app)
 
 Open to collaborating on agent tooling and to hearing where any of the above is
 wrong, especially with a measurement attached.
