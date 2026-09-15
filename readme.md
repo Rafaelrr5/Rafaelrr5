@@ -23,9 +23,6 @@ than either signal alone.
 **[claude-autosend](https://github.com/Rafaelrr5/claude-autosend)** — schedule
 prompts to fire into Claude Code CLI sessions at a chosen wall-clock time.
 
-**[sn-doc-generator](https://github.com/Rafaelrr5/sn-doc-generator)** — generates
-documentation from a ServiceNow instance's own configuration.
-
 ---
 
 ## What I actually work on
